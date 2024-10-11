@@ -9,6 +9,7 @@ app = Flask(__name__)
 def index_root():
     return '''<body>
 <big><big><big>
+<h1>The Draught of Living Death</h1>
 <ol>
   <li>Add the Infusion of Wormwood.<br><img src="/static/InfusionofWormwood.webp" width="250" height="136"></li>
   <li>Add the Powdered Root of Asphodel.<br><img src="/static/Powdered_Asphodel.webp" width="250" height="136"></li>
